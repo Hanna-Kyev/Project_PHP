@@ -1,0 +1,3 @@
+<?php
+render('reviews/index');
+
